@@ -1,0 +1,7 @@
+ideathonenv/
+__pycache__/
+*.pt
+*.cache
+runs/
+satellite.png
+.env
